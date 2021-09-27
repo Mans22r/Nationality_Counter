@@ -1,7 +1,6 @@
 import {useState} from 'react';
 import './App.css';
 import Country from './components/Country';
-import { motion } from 'framer-motion';
 
 function App() {
 
